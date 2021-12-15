@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jipaguegui
+- 👀 I’m a Data Engineer with special interest in a back-end and front-end role into a data project. 
+- 🌱 I’m currently learning cloud technologies like Azure, among others.
+- 💞️ I’m looking to collaborate on data projects related to data science, data warehousing, data lakes or another data architecture solution.
+- 📫 You can find me sending an e-mail to joseignaciopaguegui@hotmail.com
